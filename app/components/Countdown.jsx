@@ -1,6 +1,5 @@
 var React=require('react');
 var Clock=require('Clock');
-
 var CountdownForm=require('CountdownForm');
 var Controls=require('Controls');
 
