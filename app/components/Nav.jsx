@@ -18,7 +18,7 @@ var Nav=React.createClass({
         </div>
         <div className="top-bar-right">
           <ul className="menu">
-            <li className="menu-text">Created by <a href="#" target="_blank">Jintai</a></li>
+            <li className="menu-text">Created by <a href="https://github.com/zjtisme/ReactTimer" target="_blank">Jintai</a></li>
           </ul>
         </div>
       </div>
